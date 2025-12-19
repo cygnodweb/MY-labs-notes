@@ -17,7 +17,7 @@ This set of notes is created by **cygnod** and **prankks** (just a curious boy),
 
 ## 🌐 Connect With Us
 
-- **Discord:** _[https://discord.gg/AWsb4x6g]_
+- **Discord:** https://discord.gg/AWsb4x6g
 - **Website:** _[Insert your website link here]_
 
 ## ⚠️ Disclaimer
