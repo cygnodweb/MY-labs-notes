@@ -18,6 +18,11 @@ xml
 <?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE foo [<!ENTITY toreplace "3"> ]> <stockCheck>     <productId>&toreplace;</productId>     <storeId>1</storeId> </stockCheck>
 
 
+<p align="center" >
+  <img src="/20250618210714.png" title="SDWebImage logo" float=left>
+</p>
+
+
 ![Entity Test Output](Pasted image 20250618210714.png)
 
 ## XXE element
