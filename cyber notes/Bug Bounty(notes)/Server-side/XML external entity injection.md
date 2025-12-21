@@ -19,7 +19,7 @@ xml
 
 
 <p align="center" >
-  <img src="Pasted image 20250618210714.png" title="SDWebImage logo" float=left>
+  <img src="https://raw.githubusercontent.com/cygnodweb/MY-labs-notes/refs/heads/main/Pasted%20image%2020250618210714.png" title="SDWebImage logo" float=left>
 </p>
 
 
