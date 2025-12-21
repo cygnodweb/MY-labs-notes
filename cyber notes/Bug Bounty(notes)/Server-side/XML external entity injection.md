@@ -18,8 +18,7 @@ xml
 <?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE foo [<!ENTITY toreplace "3"> ]> <stockCheck>     <productId>&toreplace;</productId>     <storeId>1</storeId> </stockCheck>
 
 
-![[Pasted image 20250618210714.png]]
-
+![Entity Test Output](Pasted image 20250618210714.png)
 
 ## XXE element
 
