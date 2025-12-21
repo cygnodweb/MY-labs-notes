@@ -19,7 +19,7 @@ xml
 
 
 <p align="center" >
-  <img src="/20250618210714.png" title="SDWebImage logo" float=left>
+  <img src="Pasted image 20250618210714.png" title="SDWebImage logo" float=left>
 </p>
 
 
